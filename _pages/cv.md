@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Erik Haufs
-==========
-+49(0)15774102345 | [erik.haufs@rub.de](mailto:erik.haufs@rub.de)  
-[LinkedIn](#) | [Github](#)
 
 Education
 =========
