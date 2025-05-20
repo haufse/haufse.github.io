@@ -12,7 +12,6 @@ Welcome to my website. I am a doctoral student at the [Chair of Mathematical Sta
 My research interests include
 =============================
 
-- Extreme Value Statistics for Time Series
-- Extrene Weather Events and Climate Change
-- [ClimXtreme](https://www.climxtreme.de/)
+- Extreme Value Statistics for Time Series 
+- Extrene Weather Events and Climate Change [[ClimXtreme]](https://www.climxtreme.de/)
 - Computational and Statistical Neuroscience

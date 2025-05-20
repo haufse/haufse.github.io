@@ -68,7 +68,7 @@ Skills
   * Table Tennis: Active player and voluntary assistant youth coach
   * Road cycling, mountain biking
 
-Publications
+<!-- Publications
 ==========
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
@@ -84,4 +84,4 @@ Teaching
 ==========
 <ul>{% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
-{% endfor %}</ul>
+{% endfor %}</ul> -->
