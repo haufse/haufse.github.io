@@ -12,20 +12,19 @@ redirect_from:
 Erik Haufs
 ==========
 
-Doctoral Student
+Wissenschaftlicher Mitarbeiter
 ------------------------------
 
-_Adress:_
-Ruhr-Uni­ver­si­ty Bo­chum
-Faculty of Ma­the­ma­ticd
-Chair of Mathematical Statistics
-Building IB 2/173
-Uni­ver­si­täts­stra­ße 150
-D-44801 Bo­chum
+_Adresse:_  
+Ruhr-Universität Bochum  
+Fakultät für Mathematik  
+Lehrstuhl für Mathematische Statistik  
+Gebäude IB 2/173  
+Universitätsstraße 150  
+D-44801 Bochum
 
-_Te­l:_
-+49 234/32-19597
+_Tel:_  
++49 234 / 32-19597
 
-_E-Mail:_
-[Erik(dot)Haufs(at)ruhr-uni-bochum(dot)de](mailto:erik.haufs@rub.de)  
-
+_E-Mail:_  
+[Erik(dot)Haufs(at)ruhr-uni-bochum(dot)de](mailto:erik.haufs@rub.de)
