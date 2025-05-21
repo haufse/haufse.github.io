@@ -13,7 +13,16 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% assign lang_prefix = '' %}
+            {% if page.lang == 'de' %}
+              {% assign lang_prefix = '/de' %}
+            {% elsif page.lang == 'fr' %}
+              {% assign lang_prefix = '/fr' %}
+            {% endif %}
+
+            <li class="masthead__menu-item">
+              <a href="{{ lang_prefix }}{{ domain }}{{ link.url }}">{{ link.title }}</a>
+            </li>
           {% endfor %}
 
           <li class="masthead__menu-item dropdown language-switcher">
@@ -33,35 +42,38 @@
 </div>
 
 
+<!-- {% include base_path %}
 
-      <!-- <li class="masthead__menu-item language-switcher">
-          <a href="/" style="color: #6699cc;">| English</a> 
-      <li class="masthead__menu-item language-switcher">
-      </li>
-          <a href="/de/" style="color: #6699cc;">Deutsch</a> 
-          <li class="masthead__menu-item language-switcher">
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          {% for link in site.data.navigation.main %}
+            {% if link.url contains 'http' %}
+              {% assign domain = '' %}
+              {% else %}
+              {% assign domain = base_path %}
+            {% endif %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          {% endfor %}
+
+          <li class="masthead__menu-item dropdown language-switcher">
+            <a href="#" class="dropdown-toggle">Language ▾</a>
+            <ul class="dropdown-menu">
+              <li><a href="/">English</a></li>
+              <li><a href="/de/">Deutsch</a></li>
+              <li><a href="/fr/">Français</a></li>
+            </ul>
           </li>
-          <a href="/fr/" style="color: #6699cc;">Français</a>
-      </li> -->
-      <!-- <li class="masthead__menu-item language-switcher">
-        <a href="/">English</a>
-        <a href="/de/">| Deutsch</a>
-        <a href="/fr/">| Français</a>
-      </li> -->
-          <!-- Language Switcher Links -->
-          <!-- <li class="masthead__menu-item language-switcher">
-            <span>
-              <a href="/">English</a> |
-              <a href="/de/">Deutsch</a> |
-              <a href="/fr/">Français</a>
-            </span>
-          </li> -->
-          <!-- <li class="masthead__menu-item">
-              <a href="/" style="color: #6699cc;">| English</a> 
-          <li class="masthead__menu-item">
-          </li>
-              <a href="/de/" style="color: #6699cc;">Deutsch</a> 
-          <li class="masthead__menu-item">
-          </li>
-              <a href="/fr/" style="color: #6699cc;">Français</a>
-          </li> -->
+
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div> -->
+
+
