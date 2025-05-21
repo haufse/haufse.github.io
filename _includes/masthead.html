@@ -6,6 +6,54 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg">
+            <a href="{{ base_path }}/">{{ site.title }}</a>
+          </li>
+
+          {% assign lang_prefix = '' %}
+          {% if page.lang == 'de' %}
+            {% assign lang_prefix = '/de' %}
+          {% elsif page.lang == 'fr' %}
+            {% assign lang_prefix = '/fr' %}
+          {% endif %}
+
+          {% for link in site.data.navigation.main %}
+            {% if link.url contains 'http' %}
+              {% assign full_url = link.url %}
+            {% else %}
+              {% assign full_url = lang_prefix | append: link.url %}
+            {% endif %}
+
+            <li class="masthead__menu-item">
+              <a href="{{ full_url }}">{{ link.title }}</a>
+            </li>
+          {% endfor %}
+
+          <li class="masthead__menu-item dropdown language-switcher">
+            <a href="#" class="dropdown-toggle">Language ▾</a>
+            <ul class="dropdown-menu">
+              <li><a href="/">English</a></li>
+              <li><a href="/de/">Deutsch</a></li>
+              <li><a href="/fr/">Français</a></li>
+            </ul>
+          </li>
+
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+<!-- {% include base_path %}
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
@@ -39,7 +87,7 @@
       </nav>
     </div>
   </div>
-</div>
+</div> -->
 
 
 <!-- {% include base_path %}
