@@ -64,25 +64,25 @@
 //   font-size: 0.9em;
 // }
 
-// .language-switcher {
-//   padding-left: 1em; // space it from previous items
-//   font-size: 0.9em;
-
-//   a {
-//     color: inherit;
-//     opacity: 0.8;
-//     transition: opacity 0.2s;
-
-//     &:hover {
-//       opacity: 1;
-//     }
-//   }
-// }
-
 .language-switcher {
-  a, span {
-    display: inline !important;
-    margin: 0 4px;
-    white-space: nowrap;
+  padding-left: 1em; // space it from previous items
+  font-size: 0.9em;
+
+  a {
+    color: inherit;
+    opacity: 0.8;
+    transition: opacity 0.2s;
+
+    &:hover {
+      opacity: 1;
+    }
   }
 }
+
+// .language-switcher {
+//   a, span {
+//     display: inline !important;
+//     margin: 0 4px;
+//     white-space: nowrap;
+//   }
+// }
