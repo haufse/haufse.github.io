@@ -17,15 +17,11 @@ Doctoral Student
 
 _Adress:_
 
-Ruhr-Uni­ver­si­ty Bo­chum
-
-Faculty of Ma­the­ma­tics
-
-Chair of Mathematical Statistics
-
-Building IB 2/173
-
-Uni­ver­si­täts­stra­ße 150
+Ruhr-Uni­ver­si­ty Bo­chum  
+Faculty of Ma­the­ma­tics  
+Chair of Mathematical Statistics  
+Building IB 2/173  
+Uni­ver­si­täts­stra­ße 150  
 
 D-44801 Bo­chum
 
