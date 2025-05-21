@@ -18,7 +18,7 @@ from geopy import Nominatim
 g = glob.glob("*.md")
 
 
-geocoder = Nominatim(user_agent="talkmap-haufse") # changed from no argument to "talkmap-haufse"
+geocoder = Nominatim() # changed from no argument to "talkmap-haufse" (seems only for manual exec)
 location_dict = {}
 location = ""
 permalink = ""
