@@ -1,23 +1,17 @@
-
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "Ruhr University Bochum, Universit\u00e4tsstra\u00dfe 150, 44801 Bochum, Germany",
+    51.4441576,
+    7.2609654
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "University of North Carolina at Chapel Hill, Chapel Hill, NC, USA",
+    35.9046728,
+    -79.0533595
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
-  ],
-  [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "Universit\u00e4tsstra\u00dfe 1, 40225 D\u00fcsseldorf, Germany",
+    51.1886305,
+    6.7963341
   ]
 ];
