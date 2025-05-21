@@ -2,6 +2,7 @@
 layout: archive
 title: "Lebenslauf"
 permalink: /de/cv/
+lang: de
 author_profile: true
 redirect_from:
   - /de/resume

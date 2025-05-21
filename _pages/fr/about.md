@@ -1,5 +1,6 @@
 ---
 permalink: /fr/
+lang: fr
 title: "About me"
 author_profile: true
 redirect_from: 

@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "CV"
+lang: fr
 permalink: /fr/cv/
 author_profile: true
 redirect_from:

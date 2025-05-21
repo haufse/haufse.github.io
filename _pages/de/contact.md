@@ -2,6 +2,7 @@
 layout: archive
 title: "Contact"
 permalink: /de/contact/
+lang: de
 author_profile: true
 redirect_from:
   - /de/contact

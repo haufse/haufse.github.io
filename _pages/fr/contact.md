@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Contact"
+lang: fr
 permalink: /fr/contact/
 author_profile: true
 redirect_from:

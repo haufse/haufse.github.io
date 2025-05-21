@@ -1,6 +1,7 @@
 ---
 permalink: /de/
 title: "About me"
+lang: de
 author_profile: true
 redirect_from: 
   - /about/de
