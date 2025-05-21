@@ -1,9 +1,10 @@
 ---
-permalink: /de/about/
+permalink: /de/
 title: "About me"
 author_profile: true
 redirect_from: 
   - /about/de
+  - /de/about
   - /de/about.html
 ---
 
