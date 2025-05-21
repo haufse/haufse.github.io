@@ -57,9 +57,24 @@
   }
 }
 
-.language-switcher a {
-  display: inline;
-  margin: 0 4px;
-  white-space: nowrap;
+// .language-switcher a {
+//   display: inline;
+//   margin: 0 4px;
+//   white-space: nowrap;
+//   font-size: 0.9em;
+// }
+
+.language-switcher {
+  padding-left: 1em; // space it from previous items
   font-size: 0.9em;
+
+  a {
+    color: inherit;
+    opacity: 0.8;
+    transition: opacity 0.2s;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
 }
