@@ -56,3 +56,10 @@
     font-weight: 700;
   }
 }
+
+.language-switcher a {
+  display: inline;
+  margin: 0 4px;
+  white-space: nowrap;
+  font-size: 0.9em;
+}
