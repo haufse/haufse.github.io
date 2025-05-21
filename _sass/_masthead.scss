@@ -64,20 +64,44 @@
 //   font-size: 0.9em;
 // }
 
+// .language-switcher {
+//   padding-left: 1em; // space it from previous items
+//   font-size: 0.9em;
+
+//   a {
+//     color: inherit;
+//     opacity: 0.8;
+//     transition: opacity 0.2s;
+
+//     &:hover {
+//       opacity: 1;
+//     }
+//   }
+// }
+
 .language-switcher {
-  padding-left: 1em; // space it from previous items
-  font-size: 0.9em;
+  padding-left: 1em;
+  font-size: 0.8em;
 
   a {
-    color: inherit;
-    opacity: 0.8;
-    transition: opacity 0.2s;
+    color: #6699cc; // pastel blue
+    text-decoration: none;
+    margin: 0 4px;
+    opacity: 0.85;
+    transition: opacity 0.2s ease, color 0.2s ease;
 
     &:hover {
       opacity: 1;
+      color: #336699; // slightly deeper shade on hover
     }
   }
+
+  span {
+    color: #cccccc; // soft gray divider
+    margin: 0 2px;
+  }
 }
+
 
 // .language-switcher {
 //   a, span {
