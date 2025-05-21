@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-=========
+---------
 * **Ph.D. Fast-Track in Mathematical Statistics**, Ruhr-University Bochum, 2024–2027 (expected)  
   * Included: M.Sc. Mathematics, Grade: 1.1 (best: 1.0)  
   * Keywords: Extreme Value Statistics, Weather Extremes, Time Series, Spatio-Temporal Modeling  
@@ -21,7 +21,7 @@ Education
   * Distinctions in Mathematics, Chemistry, and Natural Sciences, Grade: 1.0 (best: 1.0)
 
 Work Experience
-===============
+---------------
 * **2025** – Visiting Researcher  
   * Université du Québec à Montréal, with Prof. Dr. Lalancette  
   * University of Toronto, with Prof. Dr. Volgushev  
@@ -33,17 +33,17 @@ Work Experience
   * Machine Learning (e.g., Hidden Markov Models) applied to in-vivo spiking data from a Macaque
 
 Publications
-============
+------------
 * **Preprints**  
   * Bücher, A., & Haufs, E. (2025). _Extreme Value Analysis based on Blockwise Top-Two Order Statistics_. Preprint. [arXiv:2502.15036](https://arxiv.org/abs/2502.15036)
 
 Talks
-=====
+-----
 * Invited talk at Extreme Value Analysis Conference 2025, Chapel Hill, NC, USA  
 * Contributed talk (Data Challenge) – TBD
 
 Honors & Grants
-===============
+---------------
 * **2025** – Travel Grant, International Realization Budget (RUB Research School)  
 * **2024–2027** – Ph.D. Scholarship, Studienstiftung des Deutschen Volkes  
 * **2024** – Students’ Scholarship, Studienstiftung des Deutschen Volkes  
@@ -54,7 +54,7 @@ Honors & Grants
   * Theodor-Schwann-Medal, City of Neuss (Best STEM)
 
 Voluntary Work
-==============
+--------------
 * **2016–2024** – Mathematical Academies  
   * Lecturer and mentor at regional weekends  
 * **2016–2024** – Mathematical Olympiads  
@@ -64,7 +64,7 @@ Voluntary Work
   * Youth trainer and chairman of youth department (Table Tennis)
 
 Skills and Interests
-====================
+--------------------
 * **Programming**: Fluent in Python and R  
 * **Software**: LATEX, Mathematica  
 * **Languages**:  
