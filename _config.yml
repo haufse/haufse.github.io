@@ -157,6 +157,7 @@ include:
   - .htaccess
   - _pages
   - _pages/de
+  - _pages/fr
   - files
 exclude:
   - "*.sublime-project"

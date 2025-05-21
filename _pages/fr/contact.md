@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Contact"
-permalink: /contact/
+permalink: /fr/contact/
 author_profile: true
 redirect_from:
-  - /contact
+  - /fr/contact
 ---
 
 {% include base_path %}
