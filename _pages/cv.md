@@ -32,7 +32,7 @@ Work Experience
   * Institute of Computational and Systems Neuroscience (INM-6) & Theoretical Neuroscience (IAS-6)  
   * Machine Learning (e.g., Hidden Markov Models) applied to in-vivo spiking data from a Macaque
 
-Publications
+<!-- Publications
 ------------
 * **Preprints**  
   * Bücher, A., & Haufs, E. (2025). _Extreme Value Analysis based on Blockwise Top-Two Order Statistics_. Preprint. [arXiv:2502.15036](https://arxiv.org/abs/2502.15036)
@@ -40,7 +40,7 @@ Publications
 Talks
 -----
 * Invited talk at Extreme Value Analysis Conference 2025, Chapel Hill, NC, USA  
-* Contributed talk (Data Challenge) – TBD
+* Contributed talk (Data Challenge) – TBD -->
 
 Honors & Grants
 ---------------
