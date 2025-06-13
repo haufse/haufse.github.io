@@ -11,7 +11,7 @@ redirect_from:
 Bienvenue sur mon site web !
 ============================
 
-Je suis doctorant au [Chaire de Statistique Mathématique](https://math.ruhr-uni-bochum.de/en/faculty/professorships/stochastics/group-buecher/) de l’Université de la Ruhr à Bochum. Avec mon directeur de thèse, [Prof. Dr. Axel Bücher](https://math.ruhr-uni-bochum.de/en/faculty/professorships/stochastics/group-buecher/staff/axel-buecher/), nous formons l’équipe de recherche travaillant sur [ClimXtreme](https://www.climxtreme.de/), un projet financé par le BMBF.
+Je suis doctorant auprès de la [Chaire de Statistique Mathématique](https://math.ruhr-uni-bochum.de/en/faculty/professorships/stochastics/group-buecher/) de l’Université de la Ruhr à Bochum. Avec mon directeur de thèse, [Prof. Dr. Axel Bücher](https://math.ruhr-uni-bochum.de/en/faculty/professorships/stochastics/group-buecher/staff/axel-buecher/), nous formons l’équipe de recherche travaillant sur [ClimXtreme](https://www.climxtreme.de/), un projet financé par le BMBF.
 
 Actualités
 ==========

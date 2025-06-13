@@ -17,7 +17,8 @@ Ich bin Doktorand am [Lehrstuhl für Mathematische Statistik](https://math.ruhr-
 Neuigkeiten
 ===========
 
-- Juni 2025: Ich werde einen eingeladenen Vortrag auf der EVA 2025 Konferenz in Chapel Hill, NC, USA halten.
+- Juni 2025: Ich präsentiere unsere Data Challenge Ergebnisse in einer Invited Session @EVA 2025 Konferenz.
+- Juni 2025: Ich werde einen Vortrag auf der EVA 2025 Konferenz in Chapel Hill, NC, USA halten.
 - Mai 2025: Ich wurde mit einem International Realization Grant der RUB Research School ausgezeichnet.
 - Februar 2025: Wir haben meinen ersten [Preprint](https://arxiv.org/abs/2502.15036) eingereicht.
 - Januar 2025: Ich wurde mit einem Promotionsstipendium der Studienstiftung des Deutschen Volkes ausgezeichnet.
