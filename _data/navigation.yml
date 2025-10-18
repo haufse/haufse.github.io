@@ -9,7 +9,7 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talkmap/     # taks is the list
+    url: /talkmap.html     # talks/ is the list
 
   - title: "Teaching"
     url: /teaching/    
