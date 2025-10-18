@@ -55,13 +55,18 @@ Honors & Grants
 
 Voluntary Work
 --------------
-* **2016–2024** – Mathematical Academies  
+* **2016–2025** – Mathematical Academies  
   * Lecturer and mentor at regional weekends  
-* **2016–2024** – Mathematical Olympiads  
-  * Several successes in first three rounds  
+* **2016–2025** – Mathematical Olympiads  
+  * 2025: Coordination of the grading team 2nd round, Bochum
   * Proofreader and grader since 2023  
-* **2025** – DJK Novesia Neuss  
+  * School: several successes in first three rounds  
+* **2025--** – DJK Novesia Neuss  
   * Youth trainer and chairman of youth department (Table Tennis)
+
+Academic Services
+-----------------
+* **2025--** – Reviewer for Extremes
 
 Skills and Interests
 --------------------

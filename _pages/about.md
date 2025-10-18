@@ -12,6 +12,7 @@ Welcome to my website! I am a doctoral student at the [Chair of Mathematical Sta
 News
 ====
 
+- July+August 2025: I spent 2 months of research visit in Toronto and Montreal
 - June 2025: I was invited to present our (jointly with Alexis Boulin) Data Challenge results in an invited talk @EVA2025.
 - June 2025: I will give a contributed talk at the EVA 2025 Conference in Chapel Hill, NC, USA.
 - May 2025: I was awarded an International Realization Grant of the RUB Research School.
