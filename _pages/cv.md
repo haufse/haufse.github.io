@@ -61,12 +61,12 @@ Voluntary Work
   * 2025: Coordination of the grading team 2nd round, Bochum
   * Proofreader and grader since 2023  
   * School: several successes in first three rounds  
-* **2025--** – DJK Novesia Neuss  
+* **2025** – DJK Novesia Neuss  
   * Youth trainer and chairman of youth department (Table Tennis)
 
 Academic Services
 -----------------
-* **2025--** – Reviewer for Extremes
+* **2025** – Reviewer for Extremes
 
 Skills and Interests
 --------------------
