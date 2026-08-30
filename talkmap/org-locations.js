@@ -1,68 +1,84 @@
 var addressPoints = [
   [
-    "Institut für Meteorologie, Universität Bonn",
+    "ClimXtreme",
     50.7311926,
     7.0707041,
     "talk"
   ],
   [
-    "Université de Montréal",
+    "UQAM, Research visit",
     45.513713,
     -73.5617177,
     "visit / position"
   ],
   [
-    "Universität Gießen",
+    "ClimXtreme",
     50.5804148,
     8.6771688,
     "talk"
   ],
   [
-    "TU Dortmund",
+    "ClimXtreme",
     51.4920599,
     7.4153013,
     "talk"
   ],
   [
-    "Ruhr University Bochum",
+    "PhD Studies at Ruhr University Bochum",
     51.4441576,
     7.2609654,
     "visit / position"
   ],
   [
-    "University of Toronto",
+    "UoT, Research visit",
     43.6591104,
     -79.3912066,
     "visit / position"
   ],
   [
-    "University of North Carolina at Chapel Hill",
+    "Extreme Value Analysis Conference 2025",
     35.9050353,
     -79.0477533,
     "conference / workshop"
   ],
   [
-    "Heinrich Heine Universität Düsseldorf",
+    "Seminar",
     51.1907732,
     6.7935167,
     "talk"
   ],
   [
-    "Universität Bremen",
+    "ZeSOB Seminar",
     53.106979,
     8.852030,
     "talk"
   ],
   [
-    "Universität Stuttgart",
+    "ClimXtreme",
     48.747356,
     9.104614,
     "talk"
   ],
   [
-    "Bielefeld (Studienstiftung)",
+    "Studienstiftung",
     52.033920,
     8.525780,
+    "talk"
+  ],
+  [
+    "Advances in Risk Modeling 2026",
+    47.375861,
+    8.547750,
+    "talk"
+  ],
+  [
+    "Extreme Value Analysis with Applications to Natural Hazards Conference 2026",
+    51.996389, 4.378528,
+    "talk"
+  ],
+  [
+    "KU Leuven, Research visit",
+    50.863694, 4.678083,
     "talk"
   ]
 ];

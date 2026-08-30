@@ -8,154 +8,183 @@ redirect_from:
 ---
 
 {% include base_path %}
+# Education
 
-Education
----------
-* **Ph.D. Fast-Track in Mathematical Statistics**, Ruhr-University Bochum, 2024–2027 (expected)  
-  * Included: M.Sc. Mathematics, Grade: 1.1 (best: 1.0)  
-  * Keywords: Extreme Value Statistics, Weather Extremes, Time Series, Spatio-Temporal Modeling  
-* **B.Sc. Mathematics**, Heinrich-Heine-University Düsseldorf, 2021–2023  
-  * Shortened: 4 instead of 6 semesters, Grade: 1.3 (best: 1.0)  
-  * 10.2023 – 03.2024: Preparations for PhD in Mathematics & Artificial Intelligence and Data Science  
-* **A-levels**, Marie Curie Gymnasium Neuss, 2013–2021  
-  * Distinctions in Mathematics, Chemistry, and Natural Sciences, Grade: 1.0 (best: 1.0)
+* **2024–2027 (expected) – Fast-Track PhD in Mathematical Statistics**, Ruhr University Bochum
 
-Work Experience
----------------
-* **2025** – Visiting Researcher  
-  * Université du Québec à Montréal, with Prof. Dr. Lalancette  
-  * University of Toronto, with Prof. Dr. Volgushev  
-* **2024–2027** – Scientific Employee, Ruhr-University Bochum  
-  * ClimXtreme-Project during PhD  
-* **2022–2023** – Teaching Assistant, Heinrich-Heine-University Düsseldorf  
-* **2021–2022** – Student Assistant, Research Center Jülich  
-  * Institute of Computational and Systems Neuroscience (INM-6) & Theoretical Neuroscience (IAS-6)  
-  * Machine Learning (e.g., Hidden Markov Models) applied to in-vivo spiking data from a Macaque
+  * Supervision: Prof. Dr. Axel Bücher; co-supervision: Prof. Dr. Holger Dette
+  * Includes: **M.Sc. Mathematics**, grade: **1.1**
+  * Focus areas: Extreme Value Theory, Environmental Extremes, Attribution
 
-<!-- Publications
-------------
-* **Preprints**  
-  * Bücher, A., & Haufs, E. (2025). _Extreme Value Analysis based on Blockwise Top-Two Order Statistics_. Preprint. [arXiv:2502.15036](https://arxiv.org/abs/2502.15036)
+* **2021–2024 – Mathematics**, Heinrich Heine University Düsseldorf
 
-Talks
------
-* Invited talk at Extreme Value Analysis Conference 2025, Chapel Hill, NC, USA  
-* Contributed talk (Data Challenge) – TBD -->
+  * 10.2023–03.2024: Preparation for PhD studies in Mathematics as well as Artificial Intelligence & Data Science
+  * 10.2021–08.2023: **B.Sc. Mathematics**, completed in 4 instead of the regular 6 semesters, grade: **1.3** (best: 1.0)
 
-Honors & Grants
----------------
-* **2025** – Travel Grant, International Realization Budget (RUB Research School)  
-* **2024–2027** – Ph.D. Scholarship, Studienstiftung des Deutschen Volkes  
-* **2024** – Students’ Scholarship, Studienstiftung des Deutschen Volkes  
-* **2021–2023** – Deutschlandstipendium, Heinrich-Heine-University Düsseldorf  
-* **2021** – A-level Awards  
-  * German Mathematical Society (DMV)  
-  * German Chemical Society (GDCh)  
-  * Theodor-Schwann-Medal, City of Neuss (Best STEM)
+* **2013–2021 – A-levels (Abitur mit besonderer Lernleistung)**, Marie Curie Gymnasium Neuss
 
-Voluntary Work
---------------
-* **2016–2025** – Mathematical Academies  
-  * Lecturer and mentor at regional weekends  
-* **2016–2025** – Mathematical Olympiads  
-  * 2025: Coordination of the grading team 2nd round, Bochum
-  * Proofreader and grader since 2023  
-  * School: several successes in first three rounds  
-* **2025** – DJK Novesia Neuss  
-  * Youth trainer and chairman of youth department (Table Tennis)
+  * Distinctions in Mathematics, Chemistry, and Natural Sciences
+  * Grade: **1.0 [871/900]** (best: 1.0 [900/900])
 
-Academic Services
------------------
-* **2025** – Reviewer for Extremes
+# Employment
 
-Skills and Interests
---------------------
-* **Programming**: Fluent in Python and R  
-* **Software**: LATEX, Mathematica  
-* **Languages**:  
-  * German (C2)  
-  * English (C1, Cambridge Advanced English)  
-  * French (Beginner)  
-* **Sports**:  
-  * Table Tennis: Active player, youth coach, and department chair  
-  * Road cycling, mountain biking  
-* **Other**: Trumpet player in several bands during school
+* **2024–2027 – Scientific Employee**, Ruhr University Bochum
 
+  * ClimXtreme project, funded by the BMFTR
 
-<!-- 
+* **2026 – Visiting Researcher**, KU Leuven, Belgium
 
-Education
-=========
-* Ph.D. Fast-Track in Mathematical Statistics, Ruhr-University Bochum, 2024–2027 (expected)
-  * Included: M.Sc. Mathematik, Grade: 1.1 (best: 1.0)
-  * Keywords: Extreme Value Statistics, Weather Extremes, Time Series, Spatio-Temporal Modeling
-* M.Sc. Artificial Intelligence & Data Science, Heinrich-Heine-University Düsseldorf, 2024–2027 (expected)
-* B.Sc. Mathematics, Heinrich-Heine-University Düsseldorf, 2021–2023 (shortened: 4 instead of 6 semesters, Grade: 1.3)
-* A-levels, Marie Curie Gymnasium Neuss, 2013–2021
-  * Distinctions in Mathematics, Chemistry, and Natural Sciences, Grade: 1.0 (best: 1.0)
+  * Research visit with Prof. Dr. Johan Segers, 2 months
 
-Teaching
-========
-* At universities
-  * WiSe24/25: Exercise class Stochastics, Heinrich-Heine-University Düsseldorf
-  * WiSe22/23: Teaching Assistant Biostatistics, Heinrich-Heine-University Düsseldorf
-* At mathematical academies
-  * Lecturer and mentor at Mathematical Academies associated with the Mathematical Olympiads
-  * Proofreader and grader in the first three rounds of the Mathematical Olympiad since 2023
+* **2025 – Research Visit**, Université du Québec à Montréal (UQAM), Canada
 
-Work experience
-===============
-* 2024–2027: Scientific Employee, Ruhr-University Bochum
-  * ClimXtreme-Project during the Ph.D.
-* 2022–2023: Teaching Assistant, Heinrich-Heine-University Düsseldorf
-* 2021–2022: Student Assistant, Research Center Juelich
-  * Institute of Computational and Systems Neuroscience (INM-6) & Theoretical Neuroscience (IAS-6)
-  * Duties included: Decoding a sequential reaching task using Machine Learning methods (e.g., Hidden Markov Models) applied to in-vivo spiking data of a Macaque
+  * With Prof. Dr. Michaël Lalancette, 1 month
 
-Scholarships & Awards
-==========
-* 2024–2047: Ph.D. Scholarship, Studienstiftung des Deutschen Volkes
-* 2024: Students’ Scholarship, Studienstiftung des Deutschen Volkes
-* 2021–2023: Deutschlandstipendium, Heinrich-Heine-University Düsseldorf
-* 2016–2021: School-level competitions
-  * Mathematical Olympiads: successful in first three rounds
-  * participated in Bundeswettbewerb Mathematik, IChO, IBO, Chemie-die stimmt, Philosophischer Essay-Wettbewerb
-  * Chemie-die stimmt: best of NRW 2018
-* 2021: A-level Awards
+* **2025 – Research Visit**, University of Toronto, Canada
+
+  * With Prof. Dr. Stanislav Volgushev, 1 month
+
+* **2022–2023 – Teaching Assistant**, Heinrich Heine University Düsseldorf
+
+* **2021–2023 – Working Student and Bachelor’s Thesis**, Research Center Jülich
+
+  * Student Assistant at the Institute of Computational and Systems Neuroscience (INM-6) & Theoretical Neuroscience (IAS-6)
+  * Bachelor’s thesis at the Institute for Structural and Functional Organisation of the Brain (INM-1)
+
+# Honors & Grants
+
+* **2024–2027 – PhD Funding: Employment and Travel Support**
+
+  * **Studienstiftung des Deutschen Volkes**, full stipend
+
+* **2026 – Travel Grant**, ETH Zürich
+
+  * For the conference *Advances in Risk Modeling*
+
+* **2025 – Travel Grant**, International Realization Budget, RUB Research School
+
+* **2021–2024 – Student Scholarships**
+
+  * **2024:** Studienstiftung des Deutschen Volkes
+  * **2021–2023:** Deutschlandstipendium, Heinrich Heine University Düsseldorf
+
+* **2021 – A-level Awards**
+
   * German Mathematical Society (DMV)
   * German Chemical Society (GDCh)
-  * City of Neuss for best STEM: Theodor-Schwann-Medal
+  * Theodor Schwann Medal of the City of Neuss for the best STEM performance
+  * Numerous successful participations in student competitions, particularly Mathematical Olympiads
 
-Skills
-==========
-* Programming
-  * Fluent in Python
-  * Basics in R
-* Software
-  * LATEX
-  * Mathematica
-* Languages
+# Teaching
+
+* **2025 – Exercise Class: Higher Mathematics III (Statistics)**
+
+  * For engineering degree programs
+
+* **2024 – Exercise Class: Introduction to Probability and Statistics**
+
+  * B.Sc. / B.A. Mathematics
+
+* **2021–2026 – Mathematical Academies**
+
+  * Weekend courses for highly gifted students in mathematics
+  * Preparation for higher rounds of the Mathematical Olympiad
+
+# Publications
+
+## Peer-Reviewed Articles
+
+* **Bücher, A., Haufs, E. (2026).** *Extreme Value Analysis based on Blockwise Top-Two Order Statistics.*
+
+  * Preprint, accepted for publication in **Bernoulli**
+  * arXiv:2502.15036v3
+
+## Preprints
+
+* **Boulin, A., Haufs, E. (2026).** *Extrapolating into the Extremes with Minimum Distance Estimation.*
+
+  * Preprint, submitted to **Extremes**
+  * arXiv:2511.20466v1
+
+* **Haufs, E., Bücher, A., Schröter, J. (2026+).** *Evidence Synthesis in Probabilistic Extreme Event Attribution: From Attribution Measures to Model Parameters.*
+
+  * Preprint, submitted to **Environmetrics**
+  * arXiv:2607.19516
+
+## Working Papers
+
+* **Bücher, A., Haufs, E., et al. (2026+).** *Multivariate Blockwise r-Largest Order Statistics.*
+
+  * Work in progress
+
+# Talks & Conference Contributions
+
+* **2026 – Contributed Talk**, *International Conference on Advances in Extreme Value Analysis and Application to Natural Hazards (EVAN)*, Delft, Netherlands
+
+  * Contribution on Bücher, H., Schröter (2026+)
+
+* **2026 – Poster**, *Advances in Risk Modeling*, Zürich, Switzerland
+
+  * Contribution on Bücher, H., Lalancette, Volgushev (2026+)
+
+* **2025 – Contributed Talk**, *Extreme Value Analysis Conference*, Chapel Hill, USA
+
+  * Contribution on Bücher, H. (2026)
+
+* **2025 – Invited Talk**, *EVA Conference – Data Challenge*
+
+  * Contribution on Boulin, H. (2026)
+
+* **2024 – Poster**, *Bernoulli-IMS World Congress in Probability & Statistics*, Bochum
+
+* **2026 – Conference Contribution**, EGU General Assembly
+
+  * Grieger, J., (…), H., et al. (2026). *ClimXtreme addressing heavy precipitation events.*
+
+* Further talks in **Montréal, Bremen, Bielefeld, Bonn, Düsseldorf, and Stuttgart**
+
+# Academic Service
+
+* **2025–2026 – Journal Reviewer**, *Extremes*
+
+* **2026 – Journal Reviewer**, *Journal of Multivariate Analysis*
+
+* **2026 – Peer Reviewer**, RUB Research School
+
+  * Evaluation of doctoral funding proposals
+
+* **2026 – Stand-in Commission Member**, Studienstiftung des Deutschen Volkes
+
+  * Participation in scholarship evaluation
+
+# Voluntary Work
+
+* **2016–2025 – Mathematical Academies**, associated with the Mathematical Olympiads
+
+  * Attendance during school
+  * Lecturer at regional mathematical weekends since completing A-levels
+
+* **2016–2025 – Mathematical Olympiads**
+
+  * Coordinator of correction for the 2nd round in Bochum in 2025
+  * Several successful participations in the first three rounds
+  * Proofreader and grader in the first three rounds since 2023
+
+* **2025–2026 – DJK Novesia Neuss**
+
+  * Youth coach in table tennis
+  * Chairman of the youth table tennis department
+
+# Skills & Interests
+
+* **Programming:** especially Python, R, and Mathematica
+* **Languages:**
+
   * German (C2)
   * English (C1, Cambridge Advanced English)
-  * French (Beginner)
-* Sports
-  * Table Tennis: Active player and voluntary assistant youth coach
-  * Road cycling, mountain biking -->
+  * French (beginner)
+* **Sports:**
 
-<!-- Publications
-==========
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
-Talks
-==========
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
-
-Teaching
-==========
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul> -->
+  * Table tennis: active player and voluntary youth coach
+  * Road cycling
+  * Mountain biking
